@@ -55,6 +55,6 @@
    * Scores by school size
     ![scoresize](https://github.com/LaszloCravensworth/School_District_Analysis/blob/main/Pics/Score%20by%20school%20size.png)
    * Scores by school type
-    ![scoretype](https://github.com/LaszloCravensworth/School_District_Analysis/blob/main/Pics/Score%20by%20school%20type.png)
+   ![scoretype](https://github.com/LaszloCravensworth/School_District_Analysis/blob/main/Pics/Score%20by%20school%20type.png)
 ### Summary
 &nbsp;&nbsp;&nbsp;Cleaning the 9th grade reading and math scores had a minor but noticable impact on the overall performance of Thomas High School. There was an increase in the percentage of students who passed reading, math, and overall. There was also an increase in performance amongst its peers.
